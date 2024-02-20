@@ -93,7 +93,7 @@ Enter the code below into the `index.js` file.
 for (let age = 30; age < 40; age++) {
   console.log(`I'm ${age} years old. Happy birthday to me!`);
   debugger;
-}
+}~
 ```
 
 In the above code, `let age = 30` is the **initialization**: we're creating a
